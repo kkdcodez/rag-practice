@@ -1,0 +1,21 @@
+# FastAPI and server
+# FastAPI and server
+fastapi==0.104.1
+uvicorn[standard]==0.24.0
+pydantic==2.5.0
+
+# LangChain and AI
+langchain>=0.1.0
+langchain-openai>=0.0.2
+openai>=1.6.1
+
+# LangSmith (Monitoring)
+langsmith>=0.0.77
+
+# Utilities
+python-dotenv==1.0.0
+
+# Testing (Week 10)
+pytest>=7.4.0
+pytest-asyncio>=0.21.0
+httpx>=0.25.0
